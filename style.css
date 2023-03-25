@@ -1,0 +1,29 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+#btn,#clr-storage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 33px;
+    width: 98px;
+    background-color: bisque;
+    border-radius: 5px;
+    border-color: blanchedalmond;
+    box-shadow: 3px 3px gray;
+}
+#get-btn, #map,#remove-btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    color: black;
+    /* margin-bottom: 20px; */
+}
+iframe{
+    display: flex;
+    justify-content: center;
+    margin-left: 470px;
+    margin-top: 20px;
+}
